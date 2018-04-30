@@ -1,0 +1,5 @@
+/home/mhfrough/Projects/MonoDevelop/LexicalAnalyzer/LexicalAnalyzer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mhfrough/Projects/MonoDevelop/LexicalAnalyzer/LexicalAnalyzer/bin/Debug/LexicalAnalyzer.exe.mdb
+/home/mhfrough/Projects/MonoDevelop/LexicalAnalyzer/LexicalAnalyzer/bin/Debug/LexicalAnalyzer.exe
+/home/mhfrough/Projects/MonoDevelop/LexicalAnalyzer/LexicalAnalyzer/obj/x86/Debug/LexicalAnalyzer.exe
+/home/mhfrough/Projects/MonoDevelop/LexicalAnalyzer/LexicalAnalyzer/obj/x86/Debug/LexicalAnalyzer.exe.mdb
